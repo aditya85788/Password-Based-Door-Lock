@@ -1,5 +1,5 @@
 # Password-Based-Door-Lock
-We desgined a basic prototype of a door lock which requires a unique password from to gain access through the door.
+The project is a basic prototype of a door lock which requires a unique password from to gain access through the door.
 The purpose of this project is to provide security at (house, ATM, office etc.).In this system the user will have to register a unique password to gain access.The purpose of this project is to provide security at (house, ATM, office etc.) in this system the user will have to register a unique password.The purpose of this project is to provide security at (house, ATM, office etc.) in this system the user will have to register a unique password. The information will be stored in data base.
 Whenever the right password will be received, the controller will accordingly give instruction
 to dc motor. Dc motor will perform the action on door unlocking. We want to utilize the
