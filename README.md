@@ -1,0 +1,2 @@
+# Password-Based-Door-Lock
+The purpose of this project is to provide security at (house, ATM, office etc.).In this system the user will have to register a unique password to gain access.The purpose of this project is to provide security at (house, ATM, office etc.) in this system the user will have to register a unique password.The purpose of this project is to provide security at (house, ATM, office etc.) in this system the user will have to register a unique password. Simulation performed in Proteus and code written in Keil Software
