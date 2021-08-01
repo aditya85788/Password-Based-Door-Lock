@@ -5,7 +5,7 @@ to dc motor. Dc motor will perform the action on door unlocking. We want to util
 electronic technology to build an integrated and fully customized home security system at a
 reasonable cost.
 
-Simulation performed in **###Proteus** and code written in **###Keil** Software.
+Simulation performed in **Proteus** and code written in **Keil** Software.
 
 # Software Requirements:
 
